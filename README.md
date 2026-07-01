@@ -8,16 +8,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=romy651" alt="romy651" /></a> </p>
 
-- 🔭 I’m currently working on **my PhD research work on data management and Knowledge Graph**
-
-- 🌱 I’m currently learning **How to efficiently deploy AI models in the cloud**
-
-- 👯 I’m looking to collaborate on [Ontop for Data integration / University of bolzano, italy](https://github.com/romy651/ontop)
-
-- 🤝 I’m looking for help with **Getting a job as Full Stack/AI developer**
-
-- 💬 Ask me about **Mathematics, theoretical computer Science, python, react, react native, Next js**
-
 - 📫 How to reach me **romywandji@gmail.com**
 
 - ⚡ Fun fact **I have a youtube channel**
